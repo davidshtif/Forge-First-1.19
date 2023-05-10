@@ -1,6 +1,8 @@
 package net.davidshtif.firstmod;
 
 import com.mojang.logging.LogUtils;
+import net.davidshtif.firstmod.block.ModBlocks;
+import net.davidshtif.firstmod.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -20,6 +22,9 @@ public class FirstMod
     public FirstMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

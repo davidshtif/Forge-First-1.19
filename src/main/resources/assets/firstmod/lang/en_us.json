@@ -1,0 +1,9 @@
+{
+  "item.firstmod.silver_ingot": "Silver Ingot",
+  "item.firstmod.raw_silver": "Raw Silver",
+
+  "block.firstmod.silver_block": "Block of Silver",
+  "block.firstmod.silver_ore": "Silver Ore",
+
+  "itemGroup.modtab": "Better Ores Tab"
+}
