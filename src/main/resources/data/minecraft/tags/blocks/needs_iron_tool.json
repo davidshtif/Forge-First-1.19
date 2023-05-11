@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "firstmod:silver_ore",
+    "firstmod:silver_block",
+    "firstmod:ruby_ore",
+    "firstmod:ruby_block",
+    "firstmod:sapphire_ore",
+    "firstmod:sapphire_block"
+  ]
+}

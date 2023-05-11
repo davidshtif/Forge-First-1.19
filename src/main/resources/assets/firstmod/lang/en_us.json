@@ -1,9 +1,15 @@
 {
   "item.firstmod.silver_ingot": "Silver Ingot",
   "item.firstmod.raw_silver": "Raw Silver",
+  "item.firstmod.ruby": "Ruby",
+  "item.firstmod.sapphire": "Sapphire",
 
   "block.firstmod.silver_block": "Block of Silver",
   "block.firstmod.silver_ore": "Silver Ore",
+  "block.firstmod.ruby_block": "Block of Ruby",
+  "block.firstmod.ruby_ore": "Ruby Ore",
+  "block.firstmod.sapphire_block": "Block of Sapphire",
+  "block.firstmod.sapphire_ore": "Sapphire Ore",
 
   "itemGroup.modtab": "Better Ores Tab"
 }

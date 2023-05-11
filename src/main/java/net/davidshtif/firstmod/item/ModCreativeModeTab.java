@@ -11,11 +11,4 @@ public class ModCreativeModeTab {
             return new ItemStack(ModItems.SILVER_INGOT.get());
         }
     };
-
-    public static final CreativeModeTab TUTORIAL_TAB_2 = new CreativeModeTab("modtab_2") {
-        @Override
-        public ItemStack makeIcon() {
-            return new ItemStack(ModItems.RAW_SILVER.get());
-        }
-    };
 }
