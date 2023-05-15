@@ -11,5 +11,15 @@
   "block.firstmod.sapphire_block": "Block of Sapphire",
   "block.firstmod.sapphire_ore": "Sapphire Ore",
 
+  "item.firstmod.silver_sword": "Silver Sword",
+  "item.firstmod.silver_pickaxe": "Silver Pickaxe",
+  "item.firstmod.silver_axe": "Silver Axe",
+  "item.firstmod.silver_shovel": "Silver Shovel",
+
+  "item.firstmod.silver_helmet": "Silver Helmet",
+  "item.firstmod.silver_chestplate": "Silver Chestplate",
+  "item.firstmod.silver_leggings": "Silver Leggings",
+  "item.firstmod.silver_boots": "Silver Boots",
+
   "itemGroup.modtab": "Better Ores Tab"
 }
